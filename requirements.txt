@@ -1,0 +1,12 @@
+# Manipulación de imágenes
+pillow
+
+# Eliminación de fondo con IA
+rembg
+
+# Opcional: para abrir enlaces web desde la app
+# webbrowser
+
+# Para manejo de IO y buffers
+# io -> estándar en Python
+
