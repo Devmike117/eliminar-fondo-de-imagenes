@@ -12,8 +12,8 @@ Elimina el fondo de cualquier imagen de forma automática y sin conexión, usand
 - Eliminación de fondo con IA (modelo U²-Net vía `rembg`)
 - Interfaz gráfica intuitiva con `tkinter`
 - Opciones para:
-  - **Guardar** la imagen procesada.
-  - **Restaurar** la imagen original.
+  - **Compatible con varios formatos de imagenes.**
+  - **Guardar la imagen procesada sin perdida de calidad.**
   - **Editar** y **borrar** secciones específicas de la imagen.
 
 ---
