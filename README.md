@@ -41,4 +41,24 @@ pip install -r requirements.txt
 1. Clona este repositorio o descarga los archivos:
 ```bash
 git clone https://github.com/Devmike117/eliminar-fondo-de-imagenes.git
+```
 
+---
+
+## Utilizar el programa en .exe
+
+Si no deseas instalar Python ni ejecutar el código manualmente, puedes usar el archivo ejecutable `.exe` que viene empaquetado con PyInstaller.
+
+### Pasos para usarlo:
+1. Descarga el archivo `eliminarfondo.exe` desde la sección de [Releases](https://github.com/Devmike117/eliminar-fondo-de-imagenes/releases).
+2. Haz doble clic para abrir la aplicación.
+3. Si aparece una advertencia de SmartScreen, haz clic en **“Más información”** y luego en **“Ejecutar de todas formas”**.
+4. El programa puede tardar unos 30 segundos o más en ejecutarse.
+5. Se abrirá y podrás cargar tu imagen, eliminar el fondo y restaurar zonas manualmente.
+
+### Recomendaciones:
+- Ejecuta el `.exe` en Windows 10 o superior.
+- No requiere conexión a internet.
+- Si tu antivirus bloquea el archivo, verifica que proviene de este repositorio oficial.
+
+---
