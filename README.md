@@ -36,7 +36,12 @@ Instala las dependencias con:
 pip install -r requirements.txt
 
 ```
+Si utilizas macOS:
 
+```bash
+python3 -m pip install -r requirements.txt
+
+```
 
 ## Clonación del repositorio
 
