@@ -2,9 +2,11 @@
 # Eliminador de fondo de imagenes usando Redes Neuronales
 
 Elimina el fondo de cualquier imagen de forma automática y sin conexión, usando inteligencia artificial. Funciona 100% localmente, sin depender de servicios web ni subir tus imágenes a terceros.
+<p align="center">
+      <img src="https://raw.githubusercontent.com/Devmike117/eliminar-fondo-de-imagenes/refs/heads/main/preview/preview.png" />
+    </p>
 
 ---
-
 ## Características
 
 - Eliminación de fondo con IA (modelo U²-Net vía `rembg`)
