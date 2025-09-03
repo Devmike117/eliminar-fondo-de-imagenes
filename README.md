@@ -49,7 +49,7 @@ git clone https://github.com/Devmike117/eliminar-fondo-de-imagenes.git
 
 ## Utilizar el programa en .exe
 
-Si no deseas instalar Python ni ejecutar el código manualmente, puedes usar el archivo ejecutable `.exe` que viene empaquetado con PyInstaller.
+Si no deseas instalar Python ni ejecutar el código manualmente, puedes usar el archivo ejecutable `.exe` que viene empaquetado.
 
 ### Pasos para usarlo:
 1. Descarga el archivo `eliminarfondo.exe` desde la sección de [Releases](https://github.com/Devmike117/eliminar-fondo-de-imagenes/releases).
