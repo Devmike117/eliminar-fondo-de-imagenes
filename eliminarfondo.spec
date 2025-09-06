@@ -39,7 +39,7 @@ exe = EXE(
     upx=True,
     upx_exclude=[],
     runtime_tmpdir=None,
-    console=False,  # False = sin consola, True = con consola
+    console=False,  
     disable_windowed_traceback=False,
     argv_emulation=False,
     target_arch=None,
@@ -47,4 +47,5 @@ exe = EXE(
     entitlements_file=None,
     icon=['icono_app.ico'],
 )
+
 
